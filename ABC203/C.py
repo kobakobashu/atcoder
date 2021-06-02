@@ -11,6 +11,6 @@ print(K)
 
 """
 time : 10m
-time complexity : O(N)
+time complexity : O(NlogN)
 space complexity : O(N)
 """
